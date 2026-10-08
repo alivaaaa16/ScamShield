@@ -235,3 +235,4 @@ ScamShield is structured for zero-overhead deployment on Vercel:
 1. **Advisory Tool:** ScamShield is designed as an educational and risk-assessment aid. It does not provide legal guarantees, official banking verification, or conclusive evidence of criminal activity.
 2. **Probabilistic Output:** Generative AI models evaluate patterns and likelihoods based on provided context; subtle attacks may evade detection and benign notices may exhibit suspicious urgency.
 3. **Primary Rule:** Always independently verify sensitive communications through verified, authoritative channels (e.g., official bank apps, known support telephone numbers).
+"# ScamShield" 
